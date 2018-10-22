@@ -1,5 +1,4 @@
 ---
-
 Author: dikouirene
 
 Title: Solid State Drive - SSD 
@@ -14,5 +13,4 @@ License text: All photos published on Unsplash can be used for free. You can use
 
 Categories: 
 -Storage Devices 
-
 ---
